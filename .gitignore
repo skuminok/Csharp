@@ -6,6 +6,9 @@
 # dotenv files
 .env
 
+.VScode/*
+bin/
+obj/
 # User-specific files
 *.rsuser
 *.suo
